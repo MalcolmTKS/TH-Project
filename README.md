@@ -16,7 +16,7 @@ I configured an isolated virtual environment to conduct Threat Hunting tasks and
 
 ### **My Objectives**
 
-- Taking a proactive approach to hunt for suspicious activity against network/host activity against (Windows/Linux/Cloud )end systems. 
+- Taking a proactive approach to hunt for suspicious activity against network/host(Windows/Linux/Cloud )end systems. 
 - Create/execute playbooks, utilizing Atomic Red Team or Attack Payloads from Pentest Reports or Open-source security datasets. 
 
 
